@@ -1,7 +1,5 @@
 # AlgoLab1
 
----
-
 ## Task: 
 
 Implement Merge Sort algorithm.   
